@@ -7464,7 +7464,7 @@ id,name,名称,iata_code
 32455,Thakurgaon Airport,塔库尔冈,TKR
 32744,Shamshernagar Airport,Shamshernagar,ZHM
 26532,Osmany International Airport,奥斯曼尼,ZYL
-26534,Hazrat Shahjalal International Airport,沙迦拉,DAC
+26534,Hazrat Shahjalal International Airport,达卡,DAC
 26535,Hong Kong International Airport,香港,HKG
 43192,Shun Tak Heliport,信德直升,HHP
 25495,Charlotte Amalie Harbor Seaplane Base,夏洛特阿玛利港飞机基地,SPB
