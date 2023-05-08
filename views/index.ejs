@@ -42,6 +42,7 @@
                         <tr>
                             <th>航班号</th>
                             <th>日期</th>
+                            <th>星期</th>
                             <th>行程</th>
                             <th>起飞</th>
                             <th>到达</th>
@@ -66,10 +67,20 @@
 <script>
     // 月份英文简称数组
     const monthAbbreviations = ['JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN', 'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC'];
+    const weekAbbreviations = ['MO', 'TU', 'WE', 'TH', 'FR', 'SA', 'SU'];
+    const week_zh_Abbreviations = ['周一', '周二', '周三', '周四', '周五', '周六', '周日'];
 
     // 将月份英文简称转换为阿拉伯数字月份
     function getMonthNumber(monthAbbreviation) {
         return monthAbbreviations.indexOf(monthAbbreviation) + 1;
+    }
+    
+    function getWeekNumber(weekAbbreviation) {
+        let num = weekAbbreviations.indexOf(weekAbbreviation) + 1;
+        return getWeek_zh_Number(num);
+    }
+    function getWeek_zh_Number(week_zh_Abbreviation) {
+        return week_zh_Abbreviations[week_zh_Abbreviation-1];
     }
 
     let IATACODE = localStorage.getItem("IATACODE");
@@ -102,6 +113,7 @@
         for (var i = 0; i < lines.length; i++) {
             var line = lines[i].trim();
             let f_no = line.substring(4, 9);
+            let f_date_week = getWeekNumber(line.substring(15, 17));
             let f_date_day = line.substring(17, 19);
             let f_date_month = line.substring(19, 22);
             f_date = getMonthNumber(f_date_month) + "月" + f_date_day + "日";
@@ -109,7 +121,6 @@
             let f_route_dp_cn = getAirport(f_route_dp);
             let f_route_arv = line.substring(27, 30);
             let f_route_arv_cn = getAirport(f_route_arv);
-
             let f_time_dp = line.substring(37, 41);
             let f_time_arv = line.substring(42, 48);
             let f_tm_dp = line.substring(58, 60);
@@ -121,6 +132,7 @@
             let html_tmp = `<tr>
                             <td>${f_no}</td>
                             <td>${f_date}</td>
+                            <td>${f_date_week}</td>
                             <td>${full_route}</td>
                             <td>${f_time_dp}</td>
                             <td>${f_time_arv}</td>
