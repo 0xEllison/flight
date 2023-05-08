@@ -8,7 +8,7 @@
     <title>代码转换</title>
     <!-- CSS -->
     <link rel="stylesheet" href="/stylesheets/style.css">
-    <link href="https://cdn.bootcdn.net/ajax/libs/twitter-bootstrap/4.6.2/css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="https://cdn.bootcdn.net/ajax/libs/twitter-bootstrap/4.6.2/css/bootstrap.min.css" rel="stylesheet" />
 </head>
 
 <body>
@@ -22,8 +22,7 @@
                     <div class="form-group row">
 
                         <div class="col-sm-12">
-                            <textarea class="form-control" name="" id="text_org"
-                                rows="5"></textarea>
+                            <textarea class="form-control" name="" id="text_org" rows="5"></textarea>
                         </div>
                     </div>
 
@@ -72,21 +71,18 @@
     function getMonthNumber(monthAbbreviation) {
         return monthAbbreviations.indexOf(monthAbbreviation) + 1;
     }
-    
+
     function getWeekNumber(weekAbbreviation) {
         let num = weekAbbreviations.indexOf(weekAbbreviation) + 1;
         return getWeek_zh_Number(num);
     }
     function getWeek_zh_Number(week_zh_Abbreviation) {
-        return week_zh_Abbreviations[week_zh_Abbreviation-1];
+        return week_zh_Abbreviations[week_zh_Abbreviation - 1];
     }
 
-    let IATACODE = localStorage.getItem("IATACODE");
-    if (IATACODE == null) {
-        $.get('IATA-CODE-utf8.txt', function (data) {
-            localStorage.setItem("IATACODE", data);
-        });
-    }
+    $.get('IATA-CODE-utf8.txt', function (data) {
+        localStorage.setItem("IATACODE", data);
+    });
     function getAirport(code) {
         let IATACODE = localStorage.getItem("IATACODE");
         const lines = IATACODE.split('\n');
