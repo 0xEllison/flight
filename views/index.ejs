@@ -22,7 +22,8 @@
                     <div class="form-group row">
 
                         <div class="col-sm-12">
-                            <textarea class="form-control" name="" id="text_org" rows="5"></textarea>
+                            <textarea class="form-control" name="" id="text_org"
+                                rows="5"> 8.  GA315  Y   WE21JUN  SUBCGK HK7   1400 1535      SEAME  1 3    </textarea>
                         </div>
                     </div>
 
@@ -31,6 +32,14 @@
                             <button type="button" onclick="transform()" class="btn btn-primary">
                                 转换
                             </button>
+                        </div>
+                    </div>
+
+                    <div class="form-group row">
+
+                        <div class="col-sm-12">
+
+                            <textarea class="form-control" name="" id="text_trans" rows="5"></textarea>
                         </div>
                     </div>
                 </form>
@@ -51,8 +60,8 @@
 
                     </tbody>
                 </table>
-                <button type="button" onclick="copy()" class="btn btn-success">
-                    复制
+                <button type="button" onclick="test()" class="btn btn-success">
+                    复制到Excel
                 </button>
             </div>
         </div>
@@ -62,6 +71,17 @@
 <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
 <script src="https://cdn.bootcdn.net/ajax/libs/twitter-bootstrap/4.6.2/js/bootstrap.bundle.min.js"></script>
 <script>
+    function countCharacters(str) {
+        const chineseRegex = /[\u4e00-\u9fa5]/g; // 匹配中文字符的正则表达式
+        let chineseCount = 0;
+        let englishCount = 0;
+        while (chineseRegex.exec(str)) {
+            chineseCount++;
+        }
+        englishCount = str.length - chineseCount;
+        return { chineseCount, englishCount };
+    }
+
     // 月份英文简称数组
     const monthAbbreviations = ['JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN', 'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC'];
     const weekAbbreviations = ['MO', 'TU', 'WE', 'TH', 'FR', 'SA', 'SU'];
@@ -80,9 +100,12 @@
         return week_zh_Abbreviations[week_zh_Abbreviation - 1];
     }
 
-    $.get('IATA-CODE-utf8.txt', function (data) {
-        localStorage.setItem("IATACODE", data);
-    });
+    let IATACODE = localStorage.getItem("IATACODE");
+    if (IATACODE == null) {
+        $.get('IATA-CODE-utf8.txt', function (data) {
+            localStorage.setItem("IATACODE", data);
+        });
+    }
     function getAirport(code) {
         let IATACODE = localStorage.getItem("IATACODE");
         const lines = IATACODE.split('\n');
@@ -92,18 +115,33 @@
             }
         }
     }
+    function addspace(num) {
+        let space = "";
+        for (let index = 0; index < num; index++) {
+            space += " ";
+        }
+        return space;
+    }
+    function getStrWidth(str) {
+        const encoder = new TextEncoder();
+        const bytes = encoder.encode(str);
+        const byteLength = bytes.length;
+        return byteLength;
+    }
     function transform() {
         $("#list").html("");
         // 1.AN/WEIHUA MS 2.LIU/ZHENYU MR 3.WANG/JINGLIAO MR 4.WANG/JUN MR                
-        // 1   5-5        18-7     25-6   32-3  38-4 43-4      53-5  59-2 61-2  
+        // 航班号   时期        行程  
+        // GA315   6月21日周三     SUBCGK泗水1-苏加诺-哈达3   1400   1535
         // 8.  GA315  Y   WE21JUN  SUBCGK HK7   1400 1535      SEAME  1 3    
         //*2.**GA315**J***WE21JUN**SUBCGK*HK1***1400*1535******SEAME**1*3**********
         //*8.**3U3936*E***TU27JUN**BKKTFU*HK6***1745*2130**********E*1*T1***********
         //*8.**3U3936*E***TU27JUN**BKKTFU*HK6***1745*2130**********E*1*T1***********
         let text_org = $("#text_org").val();
         var lines = text_org.split("\n");
-        let maxwidth = 0;
+        var maxwidth = 0;
         let text_trans = "";
+        var list = [lines.length - 1];
         for (var i = 0; i < lines.length; i++) {
             var line = lines[i].trim();
             let f_no = line.substring(4, 9);
@@ -120,8 +158,10 @@
             let f_tm_dp = line.substring(58, 60);
             let f_tm_arv = line.substring(60, 62);
             let full_route = f_route_dp + f_route_arv + f_route_dp_cn + f_tm_dp.trim() + "-" + f_route_arv_cn + f_tm_arv.trim();
-            if (full_route.length > maxwidth) {
-                maxwidth = full_route;
+            var route_width = countCharacters(full_route).chineseCount * 4 + countCharacters(full_route).englishCount * 2;
+            if (route_width > maxwidth) {
+
+                maxwidth = route_width;
             }
             let html_tmp = `<tr>
                             <td>${f_no}</td>
@@ -133,10 +173,26 @@
                             <td></td>
                             <td></td></tr>`;
             $("#list").append(html_tmp);
+            list[i] = {
+                "f_no": f_no,
+                "f_date": f_date,
+                "f_date_week": f_date_week,
+                "full_route": full_route,
+                "f_time_dp": f_time_dp,
+                "f_time_arv": f_time_arv
+            };
         }
-        //let title = "航班号   时期    行程" + addspace() + "起飞    到达    机型    飞行时长";
-        //text_trans.append(title);
-        //console.log(title);
+        console.log(maxwidth);
+        let title = "航班号   日期                行程" + addspace(maxwidth - 6) + "起飞    到达    机型    飞行时长";
+        text_trans += title + "\n";
+        for (let index = 0; index < list.length; index++) {
+            const element = list[index];
+            var route_width = countCharacters(element.full_route).chineseCount * 4 + countCharacters(element.full_route).englishCount * 2;
+            text_trans += element.f_no + "   " + element.f_date + element.f_date_week + "   " + element.full_route + addspace(maxwidth - route_width) + "   " + element.f_time_dp +
+                "   " + element.f_time_arv + "\n";;
+        }
+        $("#text_trans").val(text_trans);
+        //console.log(text_trans);
     }
     function copy() {
         const table = $('table'); // 获取HTML中的table元素
