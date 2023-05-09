@@ -2444,7 +2444,7 @@ id,name,名称,iata_code
 31636,Zalingei Airport,扎林盖,ZLX
 3250,Arusha Airport,阿鲁沙,ARK
 30767,Bukoba Airport,布科巴,BKZ
-3251,Julius Nyerere International Airport,朱利叶斯·尼雷尔,DAR
+3251,Julius Nyerere International Airport,达累斯萨拉姆,DAR
 3252,Dodoma Airport,多多马,DOD
 318875,Songwe Airport,松圭,MBI
 3253,Iringa Airport,伊林加,IRI
