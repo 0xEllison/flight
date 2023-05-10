@@ -183,13 +183,20 @@
             };
         }
         console.log(maxwidth);
-        let title = "航班号    日期                行程" + addspace(maxwidth - 6) + "起飞    到达    机型    飞行时长";
+        //CA475    5月28日周日   TFUCGK成都天府T1-雅加达3   1630起飞     2130到达     机型320     时长6:00  
+        let title = "航班号     日期                 行程" + addspace(maxwidth - 6) + "起飞             到达             机型    飞行时长";
         text_trans += title + "\n";
         for (let index = 0; index < list.length; index++) {
             const element = list[index];
             var route_width = countCharacters(element.full_route).chineseCount * 4 + countCharacters(element.full_route).englishCount * 2;
-            text_trans += element.f_no + "   " + element.f_date + element.f_date_week + "   " + element.full_route + addspace(maxwidth - route_width) + "   " + element.f_time_dp +
-                "   " + element.f_time_arv + "\n";;
+            text_trans += element.f_no + "    " + 
+            element.f_date + 
+            element.f_date_week + "   " + 
+            element.full_route + addspace(maxwidth - route_width) + "   " + 
+            element.f_time_dp +"起飞     " + 
+            element.f_time_arv.trim() + "到达     "
+            + "机型     "
+            + "飞行时长     \n";
         }
         $("#text_trans").val(text_trans);
         //console.log(text_trans);
