@@ -5510,7 +5510,7 @@ id,name,名称,iata_code
 5307,Palmyra Airport,帕尔米拉,PMS
 5308,Doha International Airport,多哈,DIA
 5309,Al Udeid Air Base,乌代德空军基地,XJD
-44686,Hamad International Airport,哈马德,DOH
+44686,Hamad International Airport,多哈,DOH
 301201,Andre Maggi Airport,安德烈·马吉,OTT
 319233,Oum Hadjer Airport,Oum Hadjer,OUM
 316827,Orientos Airport,Orientos,OXO
@@ -6004,7 +6004,7 @@ id,name,名称,iata_code
 5686,Subic Bay International Airport / Naval Air Station Cubi Point,苏比克湾/库比角海军航空站,SFS
 5687,Clark International Airport / Clark Air Base,克拉克/克拉克空军基地,CRK
 5688,Laoag International Airport,拉奥格,LAO
-5689,Ninoy Aquino International Airport,尼诺伊阿基诺,MNL
+5689,Ninoy Aquino International Airport,马尼拉,MNL
 30869,Cuyo Airport,Cuyo,CYU
 5691,Danilo Atienza Air Base,达尼洛·阿蒂恩扎空军基地,SGL
 5692,Lubang Airport,鲁邦,LBX
