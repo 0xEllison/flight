@@ -2257,7 +2257,7 @@ id,name,名称,iata_code
 41503,Ladouanie Airport,拉杜阿尼,LDO
 41504,Washabo Airport,瓦沙博,WSO
 341235,Ghazni Airport,加兹尼,GZI
-3157,Addis Ababa Bole International Airport,亚的斯亚贝巴博乐,ADD
+3157,Addis Ababa Bole International Airport,亚的斯亚贝巴,ADD
 3159,Arba Minch Airport,阿尔巴明奇,AMH
 3160,Axum Airport,阿克苏姆,AXU
 28119,Baco Airport,巴科,BCO
