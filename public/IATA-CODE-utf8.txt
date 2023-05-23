@@ -1,4 +1,4 @@
-id,name,名称,iata_code
+id,name,名称,iata_code 
 4650,Utirik Airport,乌蒂里克,UTK
 6924,Ocean Reef Club Airport,海洋礁俱乐部,OCA
 7063,Pilot Station Airport,飞行员站,PQS
