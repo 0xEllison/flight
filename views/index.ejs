@@ -22,8 +22,7 @@
                     <div class="form-group row">
 
                         <div class="col-sm-12">
-                            <textarea class="form-control" name="" id="text_org"
-                                rows="5"></textarea>
+                            <textarea class="form-control" name="" id="text_org" rows="5"></textarea>
                         </div>
                     </div>
 
@@ -100,12 +99,12 @@
         return week_zh_Abbreviations[week_zh_Abbreviation - 1];
     }
 
-    let IATACODE = localStorage.getItem("IATACODE");
-    if (IATACODE == null) {
-        $.get('IATA-CODE-utf8.txt', function (data) {
-            localStorage.setItem("IATACODE", data);
-        });
-    }
+    // let IATACODE = localStorage.getItem("IATACODE");
+    // if (IATACODE == null) {
+    $.get('IATA-CODE-utf8.txt', function (data) {
+        localStorage.setItem("IATACODE", data);
+    });
+    //}
     function getAirport(code) {
         let IATACODE = localStorage.getItem("IATACODE");
         const lines = IATACODE.split('\n');
@@ -189,14 +188,14 @@
         for (let index = 0; index < list.length; index++) {
             const element = list[index];
             var route_width = countCharacters(element.full_route).chineseCount * 4 + countCharacters(element.full_route).englishCount * 2;
-            text_trans += element.f_no + "    " + 
-            element.f_date + 
-            element.f_date_week + "   " + 
-            element.full_route + addspace(maxwidth - route_width) + "   " + 
-            element.f_time_dp +"起飞     " + 
-            element.f_time_arv.trim() + "到达     "
-            + "机型     "
-            + "飞行时长     \n";
+            text_trans += element.f_no + "    " +
+                element.f_date +
+                element.f_date_week + "   " +
+                element.full_route + addspace(maxwidth - route_width) + "   " +
+                element.f_time_dp + "起飞     " +
+                element.f_time_arv.trim() + "到达     "
+                + "机型     "
+                + "飞行时长     \n";
         }
         $("#text_trans").val(text_trans);
         //console.log(text_trans);
