@@ -6271,7 +6271,7 @@ id,name,名称,iata_code
 5962,Governador Jorge Teixeira de Oliveira Airport,Governador Jorge Teixeira de Oliveira,PVH
 5964,Rio Branco-Pl谩cido de Castro International Airport,Rio Branco Pl公司谩卡斯特罗,RBR
 5965,Recife/Guararapes - Gilberto Freyre International Airport,累西腓/瓜拉佩斯-吉尔伯托·弗雷尔,REC
-5967,Santos Dumont Airport,桑托斯杜蒙,SDU
+5967,Santos Dumont Airport,里约热内卢(桑托斯杜蒙特机场),SDU
 5968,Leite Lopes Airport,莱特洛佩斯,RAO
 299169,Barreirinhas National Airport,Barreirinhas国家,BRB
 5969,Santa Cruz Air Force Base,圣克鲁斯空军基地,SNZ
@@ -6281,7 +6281,7 @@ id,name,名称,iata_code
 5972,Santa Maria Airport,圣玛丽亚,RIA
 5973,Santar茅m - Maestro Wilson Fonseca International Airport,圣诞老人茅m-威尔逊大师丰塞卡,STM
 321014,Adolino Bedin Regional Airport,阿道利诺·贝丁地区,SMT
-5974,Congonhas Airport,孔戈尼亚斯,CGH
+5974,Congonhas Airport,圣保罗(康根哈斯机场),CGH
 5975,Prof. Eribelto Manoel Reino State Airport,Eriberto Manoel Reino教授国立,SJP
 5976,Santos Nero Moura Air Base / Guaruj谩 Airport,桑托斯·尼禄·莫拉空军基地/瓜鲁杰谩 ,SSZ
 5977,Deputado Luiz Eduardo Magalh茫es International Airport,Luiz Eduardo Magalh代表茫es,SSA
