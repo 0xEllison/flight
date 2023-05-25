@@ -6213,7 +6213,7 @@ id,name,名称,iata_code
 5901,Herc铆lio Luz International Airport,赫兹铆利奥·卢兹,FLN
 5902,Fernando de Noronha Airport,费尔南多·德诺罗尼亚,FEN
 5905,Pinto Martins International Airport,平托马丁斯,FOR
-5906,Rio Gale茫o 鈥?Tom Jobim International Airport,里奥·盖尔茫哦鈥?Tom Jobim,GIG
+5906,Rio Gale茫o 鈥?Tom Jobim International Airport,里约热内卢(里约热内卢国际机场),GIG
 5907,Guajar谩-Mirim Airport,瓜贾尔谩-米林,GJM
 5908,Santa Genoveva Airport,Santa Genoveva,GYN
 5910,Guarulhos - Governador Andr茅 Franco Montoro International Airport,Guarulhos-省长Andr茅 佛朗哥蒙托罗,GRU
