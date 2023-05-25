@@ -4464,7 +4464,7 @@ id,name,名称,iata_code
 29440,Lucca-Tassignano Airport,卢卡-塔西尼亚诺,LCV
 4369,Siena-Ampugnano Airport,锡耶纳-安普格纳,SAY
 4370,Ciampino鈥揋. B. Pastine International Airport,钱皮诺鈥揋. B.Pastine,CIA
-4372,Rome鈥揊iumicino Leonardo da Vinci International Airport,罗马鈥揊尤里西诺·莱昂纳多·达芬奇,FCO
+4372,Rome鈥揊iumicino Leonardo da Vinci International Airport,罗马(菲乌米奇诺机场),FCO
 4374,Salerno Costa d'Amalfi Airport,萨莱诺科斯塔阿马尔菲,QSR
 4375,Marina Di Campo Airport,滨海迪坎波,EBA
 4378,Naples International Airport,那不勒斯,NAP
@@ -6216,7 +6216,7 @@ id,name,名称,iata_code
 5906,Rio Gale茫o 鈥?Tom Jobim International Airport,里约热内卢(里约热内卢国际机场),GIG
 5907,Guajar谩-Mirim Airport,瓜贾尔谩-米林,GJM
 5908,Santa Genoveva Airport,Santa Genoveva,GYN
-5910,Guarulhos - Governador Andr茅 Franco Montoro International Airport,Guarulhos-省长Andr茅 佛朗哥蒙托罗,GRU
+5910,Guarulhos - Governador Andr茅 Franco Montoro International Airport,圣保罗(瓜鲁尔霍斯国际机场),GRU
 5911,Tancredo Thomas de Faria Airport,坦克雷多·托马斯·德法里亚,GPB
 5912,Coronel Altino Machado de Oliveira Airport,Coronel Altino Machado de Oliveira,GVR
 5913,Guaratinguet谩 Airport,瓜拉廷盖谩 ,GUJ
