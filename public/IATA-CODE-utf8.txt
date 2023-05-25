@@ -6080,12 +6080,12 @@ id,name,名称,iata_code
 5768,General Urquiza Airport,乌尔基扎将军,PRA
 5769,Rosario Islas Malvinas International Airport,罗萨里奥群岛马尔维纳斯,ROS
 5770,Sauce Viejo Airport,Sauce Viejo,SFN
-5771,Jorge Newbery Airpark,Jorge Newbery空中公园,AEP
+5771,Jorge Newbery Airpark,布宜诺斯艾利斯(豪尔赫纽伯里机场),AEP
 30055,La Cumbre Airport,拉康布雷,LCM
 5773,Ingeniero Ambrosio Taravella Airport,Ingeniero Ambrosio Taravella,COR
 5777,La Plata Airport,拉普拉塔,LPG
 5780,El Palomar Airport,El Palomar,EPA
-5781,Minister Pistarini International Airport,皮斯塔里尼部长,EZE
+5781,Minister Pistarini International Airport,布宜诺斯艾利斯(米尼斯特罗皮斯塔里尼机场),EZE
 39067,Rafaela Airport,拉法埃拉,RAF
 5782,Chos Malal Airport,Chos Malal,HOS
 39068,Caviahue Airport,Caviahue,CVH
@@ -6322,7 +6322,7 @@ id,name,名称,iata_code
 45057,Tambillos Airport,坦比洛斯,COW
 6011,Teniente Vidal Airport,Teniente Vidal,GXQ
 6012,Diego Aracena Airport,迭戈·阿拉塞纳,IQQ
-6015,Comodoro Arturo Merino Ben铆tez International Airport,阿图罗·梅里诺·本准将铆泰兹,SCL
+6015,Comodoro Arturo Merino Ben铆tez International Airport,圣地亚哥(阿图罗梅里诺博尼特兹机场),SCL
 6017,Ricardo Garc铆a Posada Airport,里卡多·加西亚铆a波萨达,ESR
 39132,El Avellano Airport,El Avellano,FRT
 6018,Andr茅s Sabella G谩lvez International Airport,安德尔茅s萨贝拉G谩lvez,ANF
