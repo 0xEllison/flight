@@ -1171,7 +1171,7 @@ id,name,名称,iata_code
 2131,Tabarka-A茂n Draham International Airport,表格A茂n德拉姆,TBJ
 2132,Monastir Habib Bourguiba International Airport,Monastir Habib Bourguiba,MIR
 44483,Enfidha - Hammamet International Airport,恩菲达-哈马马特,NBE
-2133,Tunis Carthage International Airport,突尼斯迦太基,TUN
+2133,Tunis Carthage International Airport,突尼斯,TUN
 2136,Gafsa Ksar International Airport,加夫萨克萨尔,GAF
 2137,Gab猫s Matmata International Airport,加布猫s Matmata,GAE
 2139,Djerba Zarzis International Airport,杰尔巴·扎尔齐斯,DJE
@@ -2371,7 +2371,7 @@ id,name,名称,iata_code
 31758,Kalokol Airport,卡洛科尔,KLK
 31514,Garissa Airport,加里萨,GAS
 31611,Hola Airport,霍拉,HOA
-3206,Jomo Kenyatta International Airport,乔莫·肯雅塔,NBO
+3206,Jomo Kenyatta International Airport,内罗毕,NBO
 31587,Keekorok Airport,基科罗克,KEU
 3207,Kakamega Airport,卡卡梅加,GGM
 3208,Kisumu Airport,基苏木,KIS
@@ -4632,7 +4632,7 @@ id,name,名称,iata_code
 44487,Gazipa艧a-Alanya Airport,加齐帕艧a-Alanya,GZP
 4568,Samsun-脟ar艧amba Airport,萨姆森-脟应收账艧安巴,SZF
 4569,Istanbul Sabiha G枚k莽en International Airport,伊斯坦布尔Sabiha G枚k莽en,SAW
-317457,陌stanbul Airport,陌伊斯坦布尔,IST
+317457,陌stanbul Airport,伊斯坦布尔,IST
 4570,B膬l葲i International Airport,B膬我葲i,BZY
 4571,Chi艧in膬u International Airport,芝加哥艧在里面膬u,KIV
 313843,Lebak Rural Airport,Lebak乡村,LWA
