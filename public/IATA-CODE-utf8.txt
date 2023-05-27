@@ -4206,7 +4206,7 @@ id,name,名称,iata_code
 4000,C贸rdoba Airport,C贸rdoba,ODB
 4001,Bilbao Airport,毕尔巴鄂,BIO
 4003,Burgos Airport,布尔戈斯,RGS
-4004,Josep Tarradellas Barcelona-El Prat Airport,Josep Tarradellas巴塞罗那El Prat,BCN
+4004,Josep Tarradellas Barcelona-El Prat Airport,巴塞罗那,BCN
 4005,Badajoz Airport,巴达霍斯,BJZ
 300859,Castell贸n-Costa Azahar Airport,卡斯特尔贸n-Costa Azahar,CDT
 4007,A Coru帽a Airport,阿康力帽a,LCG
