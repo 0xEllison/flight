@@ -6255,7 +6255,7 @@ id,name,名称,iata_code
 5944,Dix-Sept Rosado Airport,Dix Sept Rosado,MVF
 5945,Campo de Marte Airport,Campo de Marte,RTE
 5946,Manicor茅 Airport,Manicor公司茅 ,MNX
-5947,Ministro Victor Konder International Airport,维克托·孔德,NVT
+5947,Ministro Victor Konder International Airport,维克托·孔德,NVTRIA
 5948,Santo 脗ngelo Airport,桑托脗安杰罗,GEL
 5950,Oiapoque Airport,奥伊波克,OYK
 5951,Salgado Filho International Airport,萨尔加杜菲略,POA
@@ -8832,10 +8832,10 @@ id,name,名称,iata_code
 28144,Tacheng Airport,塔城,TCG
 314799,Turpan Jiaohe Airport,吐鲁番交河,TLQ
 27235,Hotan Airport,和田,HTN
-27236,脺r眉mqi Diwopu International Airport,脺r眉mqi迪沃普,URC
+27236,脺r眉mqi Diwopu International Airport,乌鲁木齐地窝堡,URC
 32725,Yining Airport,伊宁,YIN
 342843,Yutian Wanfang Airport,玉田万方,YTW
-30646,Anshan Teng'ao Airport / Anshan Air Base,鞍山腾澳/鞍山空军基地,AOG
+30646,Anshan Teng'ao Airport / Anshan Air Base,鞍山腾澳,AOG
 27237,Changchun Longjia International Airport,长春龙嘉,CGQ
 300858,Changhai Airport,长海,CNI
 30827,Chaoyang Airport,朝阳,CHG
