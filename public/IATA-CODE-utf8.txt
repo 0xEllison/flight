@@ -1171,7 +1171,7 @@ id,name,名称,iata_code
 2131,Tabarka-A茂n Draham International Airport,表格A茂n德拉姆,TBJ
 2132,Monastir Habib Bourguiba International Airport,Monastir Habib Bourguiba,MIR
 44483,Enfidha - Hammamet International Airport,恩菲达-哈马马特,NBE
-2133,Tunis Carthage International Airport,突尼斯迦太基,TUN
+2133,Tunis Carthage International Airport,突尼斯,TUN
 2136,Gafsa Ksar International Airport,加夫萨克萨尔,GAF
 2137,Gab猫s Matmata International Airport,加布猫s Matmata,GAE
 2139,Djerba Zarzis International Airport,杰尔巴·扎尔齐斯,DJE
@@ -2371,7 +2371,7 @@ id,name,名称,iata_code
 31758,Kalokol Airport,卡洛科尔,KLK
 31514,Garissa Airport,加里萨,GAS
 31611,Hola Airport,霍拉,HOA
-3206,Jomo Kenyatta International Airport,乔莫·肯雅塔,NBO
+3206,Jomo Kenyatta International Airport,内罗毕,NBO
 31587,Keekorok Airport,基科罗克,KEU
 3207,Kakamega Airport,卡卡梅加,GGM
 3208,Kisumu Airport,基苏木,KIS
@@ -4206,7 +4206,7 @@ id,name,名称,iata_code
 4000,C贸rdoba Airport,C贸rdoba,ODB
 4001,Bilbao Airport,毕尔巴鄂,BIO
 4003,Burgos Airport,布尔戈斯,RGS
-4004,Josep Tarradellas Barcelona-El Prat Airport,Josep Tarradellas巴塞罗那El Prat,BCN
+4004,Josep Tarradellas Barcelona-El Prat Airport,巴塞罗那,BCN
 4005,Badajoz Airport,巴达霍斯,BJZ
 300859,Castell贸n-Costa Azahar Airport,卡斯特尔贸n-Costa Azahar,CDT
 4007,A Coru帽a Airport,阿康力帽a,LCG
@@ -4464,7 +4464,7 @@ id,name,名称,iata_code
 29440,Lucca-Tassignano Airport,卢卡-塔西尼亚诺,LCV
 4369,Siena-Ampugnano Airport,锡耶纳-安普格纳,SAY
 4370,Ciampino鈥揋. B. Pastine International Airport,钱皮诺鈥揋. B.Pastine,CIA
-4372,Rome鈥揊iumicino Leonardo da Vinci International Airport,罗马鈥揊尤里西诺·莱昂纳多·达芬奇,FCO
+4372,Rome鈥揊iumicino Leonardo da Vinci International Airport,罗马(菲乌米奇诺机场),FCO
 4374,Salerno Costa d'Amalfi Airport,萨莱诺科斯塔阿马尔菲,QSR
 4375,Marina Di Campo Airport,滨海迪坎波,EBA
 4378,Naples International Airport,那不勒斯,NAP
@@ -4632,7 +4632,7 @@ id,name,名称,iata_code
 44487,Gazipa艧a-Alanya Airport,加齐帕艧a-Alanya,GZP
 4568,Samsun-脟ar艧amba Airport,萨姆森-脟应收账艧安巴,SZF
 4569,Istanbul Sabiha G枚k莽en International Airport,伊斯坦布尔Sabiha G枚k莽en,SAW
-317457,陌stanbul Airport,陌伊斯坦布尔,IST
+317457,陌stanbul Airport,伊斯坦布尔,IST
 4570,B膬l葲i International Airport,B膬我葲i,BZY
 4571,Chi艧in膬u International Airport,芝加哥艧在里面膬u,KIV
 313843,Lebak Rural Airport,Lebak乡村,LWA
@@ -6216,7 +6216,7 @@ id,name,名称,iata_code
 5906,Rio Gale茫o 鈥?Tom Jobim International Airport,里约热内卢(里约热内卢国际机场),GIG
 5907,Guajar谩-Mirim Airport,瓜贾尔谩-米林,GJM
 5908,Santa Genoveva Airport,Santa Genoveva,GYN
-5910,Guarulhos - Governador Andr茅 Franco Montoro International Airport,Guarulhos-省长Andr茅 佛朗哥蒙托罗,GRU
+5910,Guarulhos - Governador Andr茅 Franco Montoro International Airport,圣保罗(瓜鲁尔霍斯国际机场),GRU
 5911,Tancredo Thomas de Faria Airport,坦克雷多·托马斯·德法里亚,GPB
 5912,Coronel Altino Machado de Oliveira Airport,Coronel Altino Machado de Oliveira,GVR
 5913,Guaratinguet谩 Airport,瓜拉廷盖谩 ,GUJ
