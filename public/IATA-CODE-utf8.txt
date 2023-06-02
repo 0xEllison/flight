@@ -4219,7 +4219,7 @@ id,name,名称,iata_code
 4017,San Javier Airport,圣哈维尔,MJV
 4018,Le贸n Airport,乐贸n,LEN
 30083,Logro帽o-Agoncillo Airport,洛格罗帽o-Agoncillo,RJL
-4019,Adolfo Su谩rez Madrid鈥揃arajas Airport,阿道夫·苏谩雷斯马德里鈥揃阿拉哈斯,MAD
+4019,Adolfo Su谩rez Madrid鈥揃arajas Airport,马德里,MAD
 4020,M谩laga-Costa del Sol Airport,M谩拉加科斯塔德尔索尔,AGP
 4021,Menorca Airport,梅诺卡,MAH
 308134,Regi贸n de Murcia International Airport,瑞吉贸n de Murcia,RMU
@@ -4486,7 +4486,7 @@ id,name,名称,iata_code
 4409,Brno-Tu艡any Airport,布尔诺图艡任何,BRQ
 4410,Vodochody Airport,沃多乔迪,VOD
 30572,Zabreh Ostrava Airfield,扎布雷俄斯特拉发,ZBE
-4411,Ben Gurion International Airport,本·古里安,TLV
+4411,Ben Gurion International Airport,特拉维夫,TLV
 4412,Beersheba (Teyman) Airport,别尔谢巴（泰曼）,BEV
 330388,Ramon International Airport,拉蒙,ETM
 4416,Ein Yahav Airfield,艾因·叶哈夫,EIY
