@@ -1475,7 +1475,7 @@ id,name,名称,iata_code
 2575,"Harstad/Narvik Airport, Evenes",哈尔斯塔德/纳尔维克，埃文斯,EVE
 2576,"Fagernes Airport, Leirin",法格内斯，莱因,VDB
 2577,Flor酶 Airport,弗洛尔酶 ,FRO
-2578,"Oslo Airport, Gardermoen",奥斯陆，加德门,OSL
+2578,Oslo Airport Gardermoen,奥斯陆,OSL
 29260,"Hamar Lufthavn, Stavsberg",Hamar Lufthavn，斯塔夫斯贝格,HMR
 2579,"Haugesund Airport, Karm酶y",卡尔姆豪格松德酶y,HAU
 28115,Hammerfest Airport,哈默费斯特,HFT
