@@ -4571,7 +4571,7 @@ id,name,名称,iata_code
 4506,St Gallen Altenrhein Airport,圣加仑阿尔滕海恩,ACH
 4507,Samedan Airport,萨梅丹,SMV
 6408,G枚k莽eada Airport,G枚k莽埃达,GKD
-4509,Esenbo臒a International Airport,埃森博臒a,ESB
+4509,Esenbo臒a International Airport,安卡拉,ESB
 4510,Etimesgut Air Base,阿提梅斯古特空军基地,ANK
 4512,Adana 艦akirpa艧a Airport,阿达纳艦阿基尔帕艧a,ADA
 4513,陌ncirlik Air Base,陌恩西里克空军基地,UAB
