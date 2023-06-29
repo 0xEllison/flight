@@ -1211,7 +1211,7 @@ id,name,名称,iata_code
 2213,M眉nster Osnabr眉ck Airport,M眉恩斯特·奥斯纳布尔眉ck,FMO
 2214,Hamburg Helmut Schmidt Airport,汉堡-赫尔穆特·施密特,HAM
 2216,Cologne Bonn Airport,科隆,CGN
-2217,D眉sseldorf Airport,D眉塞尔多夫,DUS
+2217,D眉sseldorf Airport,杜塞尔多夫,DUS
 2218,Munich Airport,慕尼黑,MUC
 2219,Nuremberg Airport,纽伦堡,NUE
 2220,Leipzig/Halle Airport,莱比锡/哈雷,LEJ
