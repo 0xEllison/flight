@@ -4567,7 +4567,7 @@ id,name,名称,iata_code
 4502,Lugano Airport,卢加诺,LUG
 4503,Bern-Belp Airport,伯尔尼-贝尔普,BRN
 46492,Buochs Airport,布奥奇斯,BXO
-4505,Z眉rich Airport,Z眉里奇,ZRH
+4505,Z眉rich Airport,苏黎世,ZRH
 4506,St Gallen Altenrhein Airport,圣加仑阿尔滕海恩,ACH
 4507,Samedan Airport,萨梅丹,SMV
 6408,G枚k莽eada Airport,G枚k莽埃达,GKD
