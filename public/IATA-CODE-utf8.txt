@@ -4561,7 +4561,7 @@ id,name,名称,iata_code
 4486,Tulcea Danube Delta Airport,图尔恰多瑙河三角洲,TCE
 4487,Transilvania T芒rgu Mure艧 International Airport,Transilvania T公司芒rgu穆尔艧 ,TGM
 4488,Timi艧oara Traian Vuia Airport,技术无关机器接口艧瓦拉特拉安武亚,TSR
-4490,Geneva Cointrin International Airport,日内瓦Cointrin,GVA
+4490,Geneva Cointrin International Airport,日内瓦,GVA
 4492,Sion Airport,离锡恩,SIR
 4495,Emmen Air Base,埃门空军基地,EML
 4502,Lugano Airport,卢加诺,LUG
