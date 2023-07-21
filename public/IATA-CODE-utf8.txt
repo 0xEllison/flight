@@ -1814,7 +1814,7 @@ id,name,名称,iata_code
 30656,Antsirabe Airport,安西拉贝,ATJ
 32633,Antsalova Airport,安特萨洛瓦,WAQ
 32604,Mahanoro Airport,马哈诺罗,VVB
-2908,Ivato Airport,伊瓦托,TNR
+2908,Ivato Airport,塔拿那利佛,TNR
 31715,Ankavandra Airport,安卡万德拉,JVA
 30774,Belo sur Tsiribihina Airport,齐里比希纳河畔贝洛,BMD
 2909,Miandrivazo Airport,米安德里瓦佐,ZVA
