@@ -7050,7 +7050,7 @@ id,name,名称,iata_code
 6424,Taraz Airport,塔拉兹,DMB
 301736,Mount Aue Airport,奥伊山,UAE
 6425,Issyk-Kul International Airport,伊萨克库尔,IKU
-6426,Manas International Airport,马纳斯,FRU
+6426,Manas International Airport,比什凯克玛纳斯,FRU
 6427,Osh Airport,奥什,OSS
 6429,Shymkent Airport,奇姆肯特,CIT
 337747,Hazrat Sultan International Airport,哈兹拉特苏丹,HSA
