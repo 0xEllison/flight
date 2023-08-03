@@ -7044,7 +7044,7 @@ id,name,名称,iata_code
 6422,Balkhash Airport,巴尔喀什,BXH
 41853,Boralday Airport,Boralday,BXJ
 41868,Taldykorgan Airport,Taldykorgan,TDK
-6423,Nursultan Nazarbayev International Airport,努尔苏丹·纳扎尔巴耶夫,NQZ
+6423,Nursultan Nazarbayev International Airport,阿斯塔纳,NQZ
 31768,Kokshetau Airport,Kokshetau,KOV
 32495,Petropavl Airport,彼得罗巴甫尔,PPK
 6424,Taraz Airport,塔拉兹,DMB
