@@ -5875,12 +5875,12 @@ id,name,名称,iata_code
 24340,Red Devil Airport,红魔,RDV
 333094,Ras al Khaimah Al Hamra Seaplane Base,Ras al-Khaimah al-Hamra海平面基地,RHR
 314557,Alxa Right Banner Badanjilin Airport,阿拉善右旗巴丹吉林,RHT
-5531,Narita International Airport,成田,NRT
+5531,Narita International Airport,东京成田,NRT
 5532,Shinshu-Matsumoto Airport,松本信树,MMJ
 5533,Ibaraki Airport / JASDF Hyakuri Air Base,茨城/日本航空自卫队海仓空军基地,IBR
 5534,JMSDF Minami Torishima Air Base,JMSDF南鸟岛空军基地,MUS
 5535,Iwo Jima Airbase,硫磺岛空军基地,IWO
-5536,Kansai International Airport,关西,KIX
+5536,Kansai International Airport,大阪关西,KIX
 5537,Nanki Shirahama Airport,南木白滨,SHM
 5538,Kobe Airport,神户,UKB
 5539,Hiroshima Heliport,广岛直升,HIW
