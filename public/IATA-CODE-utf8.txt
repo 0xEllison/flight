@@ -4220,7 +4220,7 @@ id,name,名称,iata_code
 4018,Le贸n Airport,乐贸n,LEN
 30083,Logro帽o-Agoncillo Airport,洛格罗帽o-Agoncillo,RJL
 4019,Adolfo Su谩rez Madrid鈥揃arajas Airport,马德里,MAD
-4020,M谩laga-Costa del Sol Airport,M谩拉加科斯塔德尔索尔,AGP
+4020,M谩laga-Costa del Sol Airport,马拉加,AGP
 4021,Menorca Airport,梅诺卡,MAH
 308134,Regi贸n de Murcia International Airport,瑞吉贸n de Murcia,RMU
 4022,Moron Air Base,莫伦空军基地,OZP
@@ -4440,7 +4440,7 @@ id,name,名称,iata_code
 4333,Olbia Costa Smeralda Airport,奥尔比亚科斯塔斯梅拉尔达,OLB
 29424,Oristano-Fenosu Airport,奥里斯塔诺·费诺苏,FNU
 4334,Tortol矛 Airport,乌龟矛 ,TTB
-4340,Malpensa International Airport,马尔彭萨,MXP
+4340,Malpensa International Airport,米兰马尔彭萨,MXP
 4341,Milan Bergamo Airport,米兰贝加莫,BGY
 4342,Turin Airport,都灵,TRN
 4343,Villanova D'Albenga International Airport,维拉诺瓦达本加,ALL
@@ -5968,7 +5968,7 @@ id,name,名称,iata_code
 5639,Jeju International Airport,济州,CJU
 5640,Jeongseok Airport,Jeongseok,JDG
 5641,Jinhae Air Base,金海空军基地,CHF
-5642,Gimhae International Airport,金海,PUS
+5642,Gimhae International Airport,釜山金海,PUS
 5643,Sacheon Airport / Sacheon Air Base,萨城/萨城空军基地,HIN
 5644,Ulsan Airport,蔚山,USN
 5653,Incheon International Airport,仁川,ICN
