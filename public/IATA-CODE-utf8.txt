@@ -7481,7 +7481,7 @@ id,name,名称,iata_code
 26550,Chandigarh International Airport,昌迪加尔,IXC
 26551,Kanpur Airport,坎普尔,KNU
 26554,Dehradun Jolly Grant Airport,德拉敦乔利格兰特,DED
-26555,Indira Gandhi International Airport,英迪拉·甘地,DEL
+26555,Indira Gandhi International Airport,新德里,DEL
 26557,Kangra Airport,康格拉,DHM
 26558,Gwalior Airport,瓜廖尔,GWL
 26559,Hisar Airport,希萨尔,HSS
