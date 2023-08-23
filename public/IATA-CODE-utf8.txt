@@ -1473,7 +1473,7 @@ id,name,名称,iata_code
 2572,"Kristiansand Airport, Kjevik",克耶维克克里斯蒂安桑,KRS
 2574,Bardufoss Airport,巴杜福斯,BDU
 2575,"Harstad/Narvik Airport Evenes",纳尔维克,EVE
-2576,"Fagernes Airport, Leirin",法格内斯，莱因,VDB
+2576,"Fagernes Airport Leirin",法格内斯，莱因,VDB
 2577,Flor酶 Airport,弗洛尔酶 ,FRO
 2578,Oslo Airport Gardermoen,奥斯陆,OSL
 29260,"Hamar Lufthavn, Stavsberg",Hamar Lufthavn，斯塔夫斯贝格,HMR
