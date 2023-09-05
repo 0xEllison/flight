@@ -5296,7 +5296,7 @@ id,name,名称,iata_code
 5092,Gurayat Domestic Airport,古拉亚特国内,URY
 5093,Ha'il Airport,哈尔,HAS
 5095,Jubail Airport,朱拜尔,QJB
-5097,King Abdulaziz International Airport,阿卜杜勒阿齐兹国王,JED
+5097,King Abdulaziz International Airport,吉达,JED
 5098,King Khaled Military City Airport,哈立德国王军事城,KMC
 5099,King Khalid Air Base,哈立德国王空军基地,KMX
 5101,Prince Mohammad Bin Abdulaziz Airport,穆罕默德·本·阿卜杜勒阿齐兹王子,MED
@@ -5305,7 +5305,7 @@ id,name,名称,iata_code
 5103,Al Qaisumah/Hafr Al Batin Airport,Al-Qaisumah/Hafr Al-Batin,AQI
 5109,Prince Sultan Air Base,苏丹王子空军基地,AKH
 5111,Rafha Domestic Airport,拉菲国内,RAH
-5112,King Khaled International Airport,哈立德国王,RUH
+5112,King Khaled International Airport,利雅得,RUH
 5114,Arar Domestic Airport,阿拉尔国内,RAE
 5118,Sharurah Domestic Airport,沙鲁拉国内,SHW
 5119,Al-Jawf Domestic Airport,Al Jawf国内,AJF
