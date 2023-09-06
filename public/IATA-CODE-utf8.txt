@@ -4554,7 +4554,7 @@ id,name,名称,iata_code
 4479,Craiova Airport,克雷奥瓦,CRA
 4480,Ia艧i Airport,国际原子能机构艧i,IAS
 4481,Oradea International Airport,奥拉迪亚,OMR
-4482,Henri Coand膬 International Airport,亨利·科安德膬 ,OTP
+4482,Henri Coand膬 International Airport,布加勒斯特.亨利科安达,OTP
 4483,Sibiu International Airport,锡比乌,SBZ
 4484,Satu Mare Airport,沙都马雷,SUJ
 4485,Suceava Stefan cel Mare Airport,苏切瓦斯特凡塞尔马雷,SCV
