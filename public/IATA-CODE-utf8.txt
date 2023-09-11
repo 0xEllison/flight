@@ -7916,7 +7916,7 @@ id,name,名称,iata_code
 41468,Muko Muko Airport,穆科穆科,MPC
 26832,Halim Perdanakusuma International Airport,Halim Perdanakusuma,HLP
 26834,Pondok Cabe Air Base,庞多克卡贝空军基地,PCB
-26835,Soekarno-Hatta International Airport,苏加诺-哈达,CGK
+26835,Soekarno-Hatta International Airport,雅加达,CGK
 26827,Radin Inten II International Airport,Radin Inten II,TKG
 333624,Muhammad Taufiq Kiemas Airport,穆罕默德·陶菲克·基玛斯,TFY
 26836,Binaka Airport,比纳卡,GNS
