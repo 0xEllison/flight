@@ -1655,7 +1655,7 @@ id,name,名称,iata_code
 27289,Nelspruit Airport,内尔斯普鲁特,NLP
 2818,Overberg Airport,奥弗伯格,OVG
 2819,Oudtshoorn Airport,Oudtshoorn,OUH
-31055,OR Tambo International Airport,坦博,JNB
+31055,OR Tambo International Airport,约翰内斯堡,JNB
 27290,Port Alfred Airport,阿尔弗雷德港,AFD
 2820,Chief Dawid Stuurman International Airport,达维德·斯图尔曼负责人,PLZ
 2821,Plettenberg Bay Airport,普莱滕贝格湾,PBZ
