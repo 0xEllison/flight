@@ -4595,7 +4595,7 @@ id,name,名称,iata_code
 4531,脟anakkale Airport,脟安纳卡莱,CKZ
 4532,Eski艧ehir Air Base,埃斯基艧埃希尔空军基地,ESK
 4533,Adnan Menderes International Airport,伊兹密尔,ADB
-4535,脟i臒li Airport,脟我臒李,IGL
+4535,脟i臒li Airport,土耳其伊兹密尔Cigli机场,IGL
 4538,U艧ak Airport,U艧ak,USQ
 4540,Cengiz Topel Airport,岑吉兹托佩尔,KCO
 4541,Bursa Yeni艧ehir Airport,布尔萨·耶尼艧埃希尔,YEI
