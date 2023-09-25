@@ -4594,7 +4594,7 @@ id,name,名称,iata_code
 4530,Band谋rma Airport,乐队谋罗马,BDM
 4531,脟anakkale Airport,脟安纳卡莱,CKZ
 4532,Eski艧ehir Air Base,埃斯基艧埃希尔空军基地,ESK
-4533,Adnan Menderes International Airport,阿德南·门德斯,ADB
+4533,Adnan Menderes International Airport,伊兹密尔,ADB
 4535,脟i臒li Airport,脟我臒李,IGL
 4538,U艧ak Airport,U艧ak,USQ
 4540,Cengiz Topel Airport,岑吉兹托佩尔,KCO
@@ -4631,7 +4631,7 @@ id,name,名称,iata_code
 4567,Milas Bodrum International Airport,米拉斯博德鲁姆,BJV
 44487,Gazipa艧a-Alanya Airport,加齐帕艧a-Alanya,GZP
 4568,Samsun-脟ar艧amba Airport,萨姆森-脟应收账艧安巴,SZF
-4569,Istanbul Sabiha G枚k莽en International Airport,伊斯坦布尔Sabiha G枚k莽en,SAW
+4569,Istanbul Sabiha G枚k莽en International Airport,伊斯坦布尔(萨比哈哥克赛恩机场),SAW
 317457,陌stanbul Airport,伊斯坦布尔,IST
 4570,B膬l葲i International Airport,B膬我葲i,BZY
 4571,Chi艧in膬u International Airport,芝加哥艧在里面膬u,KIV
