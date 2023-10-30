@@ -2176,7 +2176,7 @@ id,name,名称,iata_code
 3110,Dakhla Airport,达赫拉,VIL
 3111,Essaouira-Mogador Airport,Essaouira Mogador,ESU
 3112,Hassan I Airport,哈桑一世,EUN
-3113,Mohammed V International Airport,穆罕默德五世,CMN
+3113,Mohammed V International Airport,卡萨布兰卡（穆罕默德机场）,CMN
 3114,Nador Al Aaroui International Airport,Nador Al Aaroui,NDR
 3115,Menara Airport,梅纳拉,RAK
 3116,Kenitra Air Base,凯尼特拉空军基地,NNA
@@ -2186,7 +2186,7 @@ id,name,名称,iata_code
 3120,Sania Ramel Airport,萨尼亚拉梅尔,TTU
 3121,Tangier Ibn Battuta Airport,丹吉尔-伊本-巴图塔,TNG
 17597,Goodnews Airport,Goodnews,GNU
-325736,Blaise Diagne International Airport,布莱斯迪亚涅,DSS
+325736,Blaise Diagne International Airport,达喀尔（布莱斯迪亚涅）,DSS
 309180,Gora Airstrip,戈拉空难,GOC
 6197,Kolda North Airport,科尔达北部,KDA
 3122,Ziguinchor Airport,Ziguinchor,ZIG
