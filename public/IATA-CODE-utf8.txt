@@ -7536,7 +7536,7 @@ id,name,名称,iata_code
 31712,Jumla Airport,朱马拉,JUM
 26595,Janakpur Airport,贾纳克布尔,JKR
 308298,Jomsom Airport,乔姆森,JMO
-26596,Tribhuvan International Airport,特里布万,KTM
+26596,Tribhuvan International Airport,加德满都,KTM
 31802,Lamidanda Airport,Lamidanda,LDN
 28150,Lukla Airport,卢卡拉,LUA
 31856,Langtang Airport,琅塘,LTG
