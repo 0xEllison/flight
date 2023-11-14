@@ -1472,7 +1472,7 @@ id,name,名称,iata_code
 29255,Berlev氓g Airport,别列夫氓g,BVG
 2572,"Kristiansand Airport, Kjevik",克耶维克克里斯蒂安桑,KRS
 2574,Bardufoss Airport,巴杜福斯,BDU
-2575,"Harstad/Narvik Airport, Evenes",哈尔斯塔德/纳尔维克，埃文斯,EVE
+2575,"Harstad/Narvik Airport, Evenes",纳尔维克伊文内斯机场，埃文斯,EVE
 2576,"Fagernes Airport, Leirin",法格内斯，莱因,VDB
 2577,Flor酶 Airport,弗洛尔酶 ,FRO
 2578,Oslo Airport Gardermoen,奥斯陆,OSL
@@ -1510,7 +1510,7 @@ id,name,名称,iata_code
 2598,"Sandnessj酶en Airport, Stokka",桑内斯j酶斯托卡,SSJ
 2599,"Troms酶 Airport, Langnes",Troms公司酶 兰内斯,TOS
 2600,"Sandefjord Airport, Torp",托尔普Sandefjord,TRF
-2601,"Trondheim Airport, V忙rnes",特隆赫姆，V忙rnes公司,TRD
+2601,"Trondheim Airport, V忙rnes",特隆赫姆瓦尔内斯机场,TRD
 29284,Vads酶 Airport,真空度酶 ,VDS
 336112,Yan'an Nanniwan Airport,延安南泥湾,ENY
 2602,"Stavanger Airport, Sola",索拉斯塔万格,SVG
