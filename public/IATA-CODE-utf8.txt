@@ -4614,7 +4614,6 @@ id,name,名称,iata_code
 4555,Van Ferit Melen Airport,Van Ferit Melen,VAN
 4556,Batman Airport,蝙蝠侠,BAL
 4557,Mu艧 Airport,亩艧 ,MSR
-4558,Siirt Airport,锡尔特,SXZBEG
 30418,Sinop Airport,锡诺普,NOP
 4559,Kahramanmara艧 Airport,卡赫拉曼马拉什艧 ,KCM
 4560,A臒r谋 Airport,A.臒r谋 ,AJI
