@@ -1467,7 +1467,7 @@ id,name,名称,iata_code
 29254,"F酶rde Airport, Bringeland",F酶布林盖兰德,FDE
 2568,"Br酶nn酶ysund Airport, Br酶nn酶y",溴酶神经网络酶Br ysund酶神经网络酶y,BNN
 2569,Bod酶 Airport,博德酶 ,BOO
-2570,"Bergen Airport, Flesland",卑尔根,BGO
+2570,"Bergen",卑尔根,BGO
 2571,B氓tsfjord Airport,B氓茨峡湾,BJF
 29255,Berlev氓g Airport,别列夫氓g,BVG
 2572,"Kristiansand Airport, Kjevik",克耶维克克里斯蒂安桑,KRS
@@ -4644,7 +4644,7 @@ id,name,名称,iata_code
 31944,Misrata International Airport,米苏拉塔,MRA
 32195,Ubari Airport,乌巴里,QUB
 1649,Ponikve Airport,波尼克夫,UZC
-4610,Belgrade Nikola Tesla Airport,贝尔格勒,BEG
+4610,Belgrade Nikola Tesla Airport,贝尔格莱德,BEG
 42777,Berane Airport,柏林,IVG
 4611,Batajnica Air Base,巴塔伊尼察空军基地,BJY
 31872,Morava Airport,莫拉瓦,KVO
