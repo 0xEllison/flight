@@ -4175,7 +4175,7 @@ id,name,名称,iata_code
 41316,Layang-Layang Airport,莱阳莱阳,LAC
 31795,Kuk毛s International Airport,库毛s,KFZ
 3972,Tirana International Airport Mother Teresa,地拉那特蕾莎修女,TIA
-3974,Burgas Airport,布尔加斯,BOJ
+3974,Burgas Airport,布加斯(博加斯机场),BOJ
 3975,Gorna Oryahovitsa Airport,戈尔纳·奥尔亚霍维萨,GOZ
 313852,Palm Beach Seaplane Base,棕榈滩飞机基地,LBH
 313853,Luabo Airport,Luabo,LBM
