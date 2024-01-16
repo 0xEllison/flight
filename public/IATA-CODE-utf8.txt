@@ -8857,3 +8857,4 @@ id,name,名称,iata_code
 27244,Yanji Chaoyangchuan Airport,延吉朝阳川,YNJ
 317861,Yingkou Lanqi Airport,营口蓝旗,YKH
 317862,Harbin Airport,哈尔滨,HRB
+317863,Harbin Airport,巴统,BUS
