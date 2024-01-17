@@ -1472,7 +1472,7 @@ id,name,名称,iata_code
 29255,Berlev氓g Airport,别列夫氓g,BVG
 2572,"Kristiansand Airport, Kjevik",克耶维克克里斯蒂安桑,KRS
 2574,Bardufoss Airport,巴杜福斯,BDU
-2575,"Harstad/Narvik Airport, Evenes",纳尔维克伊文内斯机场，埃文斯,EVE
+2575,"Harstad/Narvik Airport, Evenes",埃沃内斯,EVE
 2576,"Fagernes Airport, Leirin",法格内斯，莱因,VDB
 2577,Flor酶 Airport,弗洛尔酶 ,FRO
 2578,Oslo Airport Gardermoen,奥斯陆,OSL
