@@ -4309,7 +4309,7 @@ id,name,名称,iata_code
 4158,Perpignan-Rivesaltes (Llaban猫re) Airport,佩皮尼昂河（Llaban）猫re）,PGF
 4159,Le Castellet Airport,卡斯特勒,CTT
 28935,Barcelonnette - Saint-Pons Airfield,巴塞罗那-圣庞斯,BAE
-4161,Montpellier-M茅diterran茅e Airport,蒙彼利埃-M茅二元的茅e,MPL
+4161,Montpellier Airport,蒙彼利埃,MPL
 4162,B茅ziers-Vias Airport,B茅齐尔斯·维亚斯,BZR
 4163,Avignon-Caumont Airport,阿维尼翁考蒙特,AVN
 28938,Gap - Tallard Airfield,Gap-Tallard,GAT
