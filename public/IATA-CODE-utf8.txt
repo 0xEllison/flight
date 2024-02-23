@@ -4305,7 +4305,7 @@ id,name,名称,iata_code
 4152,Saint-脡tienne-Bouth茅on Airport,圣-脡蒂安·布特茅在,EBU
 4154,Carcassonne Airport,卡尔卡松,CCF
 4155,Marseille Provence Airport,马赛普罗旺斯,MRS
-4156,Nice-C么te d'Azur Airport,利基市场C么蔚蓝海岸,NCE
+4156,Nice-C么te d'Azur Airport,尼斯(克特阿祖尔机场),NCE
 4158,Perpignan-Rivesaltes (Llaban猫re) Airport,佩皮尼昂河（Llaban）猫re）,PGF
 4159,Le Castellet Airport,卡斯特勒,CTT
 28935,Barcelonnette - Saint-Pons Airfield,巴塞罗那-圣庞斯,BAE
