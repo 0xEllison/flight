@@ -7511,7 +7511,7 @@ id,name,名称,iata_code
 26587,Sam Neua Airport,萨姆·诺亚,NEU
 32585,Saravane Airport,Saravane,VNA
 32445,Thakhek Airport,他谢克,THK
-26588,Wattay International Airport,瓦岱,VTE
+26588,Wattay International Airport,万象,VTE
 32703,Xieng Khouang Airport,川圹,XKH
 317828,Xienglom Airport,谢nglom,XIE
 41567,Aeropuerto Nacional Dr. Juan Plate,国家航空公司Juan Plate博士,VMI
@@ -7667,7 +7667,7 @@ id,name,名称,iata_code
 30923,Lien Khuong Airport,连昆,DLI
 26697,Da Nang International Airport,岘港,DAD
 301326,Las Malvinas/Echarate Airport,拉斯马尔维纳斯/埃查拉特,VVN
-26700,Noi Bai International Airport,内排,HAN
+26700,Noi Bai International Airport,河内,HAN
 32382,Na San Airport,纳桑,SQH
 26703,Phu Cat Airport,Phu Cat,UIH
 26704,Pleiku Airport,普莱库,PXU
