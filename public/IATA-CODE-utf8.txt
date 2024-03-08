@@ -4810,7 +4810,7 @@ id,name,名称,iata_code
 4728,General Francisco J. Mujica International Airport,弗朗西斯科·穆希卡将军,MLM
 4729,Minatitl谩n/Coatzacoalcos International Airport,米那提尔谩n/夸察夸尔科斯,MTT
 4730,Monclova International Airport,蒙克洛瓦,LOV
-4731,Aeropuerto Internacional Lic. Benito Ju谩rez,国际航空公司Benito Ju谩雷斯,MEX
+4731,Aeropuerto Internacional Lic. Benito Ju谩rez,墨西哥,MEX
 4732,Aeropuerto Internacional Gral. Mariano Escobedo,。马里亚诺·埃斯科贝多,MTY
 4733,Aeropuerto Internacional Gral. Rafael Buelna,。拉斐尔·布尔纳,MZT
 4734,Nogales International Airport,诺加莱斯,NOG
