@@ -7191,7 +7191,7 @@ id,name,名称,iata_code
 43672,Varandey Airport,瓦朗迪,VRI
 300611,Majeed Bin Abdulaziz Airport,马吉德·本·阿卜杜勒阿齐兹,ULH
 31780,Kotlas Airport,科特拉斯,KSZ
-6489,Pulkovo Airport,普尔科沃,LED
+6489,Pulkovo Airport,圣彼得堡,LED
 35001,Kirovsk-Apatity Airport,Kirovsk Apatity,KVK
 6490,Murmansk Airport,摩尔曼斯克,MMK
 6491,Pskov Airport,普斯科夫,PKV
@@ -7307,7 +7307,7 @@ id,name,名称,iata_code
 42967,Zhukovsky International Airport,茹科夫斯基,ZIA
 26394,Domodedovo International Airport,多莫杰多沃,DME
 26395,Tunoshna Airport,图诺什纳,IAR
-26396,Sheremetyevo International Airport,谢列梅捷沃,SVO
+26396,Sheremetyevo International Airport,莫斯科,SVO
 26397,Migalovo Air Base,米加洛沃空军基地,KLD
 34931,Ostafyevo International Airport,奥斯塔夫耶沃,OSF
 34969,Chkalovskiy Air Base,奇卡洛夫斯基空军基地,CKL
