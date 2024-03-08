@@ -4534,7 +4534,7 @@ id,name,名称,iata_code
 4456,Jo茫o Paulo II Airport,乔茫o保罗二世,PDL
 4457,Pico Airport,皮库,PIX
 4458,Portim茫o Airport,波提姆茫o,PRM
-4459,Francisco de S谩 Carneiro Airport,弗朗西斯科·德·S谩 卡内罗,OPO
+4459,Francisco de  Carneiro Airport,波尔图,OPO
 4460,Porto Santo Airport,波尔图桑托,PXO
 4461,Humberto Delgado Airport (Lisbon Portela Airport),里斯本,LIS
 4462,S茫o Jorge Airport,S茫o豪尔赫,SJZ
