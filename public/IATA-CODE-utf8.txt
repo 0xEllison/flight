@@ -5348,7 +5348,7 @@ id,name,名称,iata_code
 5160,Hamadan Airport,哈马丹,HDM
 5161,Arak Airport,阿拉克,AJK
 5162,Nojeh Air Base,诺杰空军基地,NUJ
-5166,Imam Khomeini International Airport,伊玛目霍梅尼,IKA
+5166,Imam Khomeini International Airport,德黑兰,IKA
 5168,Mehrabad International Airport,迈赫拉巴德,THR
 5169,Qazvin Airport,加兹温,GZW
 5171,Payam Karaj International Airport,巴亚姆卡拉杰,PYK
