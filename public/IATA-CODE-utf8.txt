@@ -1481,7 +1481,7 @@ id,name,名称,iata_code
 28115,Hammerfest Airport,哈默费斯特,HFT
 2580,Hasvik Airport,哈斯维克,HAA
 29261,"Honningsv氓g Airport, Valan",Honningsv公司氓g瓦兰,HVG
-2581,"Kristiansund Airport, Kvernberget",克文贝吉克里斯蒂安松德,KSU
+2581,"Kristiansund Airport, Kvernberget",克里斯蒂安松,KSU
 30032,Gol Airport,戈尔,GLL
 2583,"Kirkenes Airport, H酶ybuktmoen",柯克内斯，H酶伊巴克特蒙,KKN
 29264,Leknes Airport,勒克内斯,LKN
@@ -2785,7 +2785,7 @@ id,name,名称,iata_code
 19397,Burns Municipal Airport,伯恩斯市,BNO
 19398,Boone Municipal Airport,布恩市,BNW
 3421,Boise Air Terminal/Gowen Field,博伊西航空航站楼/戈文,BOI
-3422,Logan International Airport,洛根,BOS
+3422,Logan International Airport,波士顿洛根,BOS
 19399,Bartow Executive Airport,巴托行政,BOW
 19400,Big Spring Mc Mahon-Wrinkle Airport,Big Spring Mc Mahon褶皱,HCA
 19401,Miley Memorial Field,麦莉纪念场,BPI
