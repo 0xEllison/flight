@@ -897,7 +897,7 @@ id,name,名称,iata_code
 1925,Timmins/Victor M. Power,蒂明斯/维克多·M·鲍尔,YTS
 1926,Billy Bishop Toronto City Centre Airport,比利·毕晓普多伦多市中心,YTZ
 1927,Tuktoyaktuk / James Gruben Airport,Tuktoyaktuk/James Gruben,YUB
-1928,Montreal / Pierre Elliott Trudeau International Airport,蒙特利尔/皮埃尔·埃利奥特·特鲁多,YUL
+1928,Montreal / Pierre Elliott Trudeau International Airport,蒙特利尔,YUL
 1929,Naujaat Airport,瑙贾特,YUT
 1930,Hall Beach Airport,霍尔海滩,YUX
 1931,Rouyn Noranda Airport,鲁恩诺兰达,YUY
@@ -955,7 +955,7 @@ id,name,名称,iata_code
 1987,Kapuskasing Airport,卡普斯卡辛,YYU
 1988,Armstrong Airport,阿姆斯特朗,YYW
 1989,Mont Joli Airport,蒙乔利,YYY
-1990,Lester B. Pearson International Airport,多伦多皮尔逊,YYZ
+1990,Lester B. Pearson International Airport,多伦多,YYZ
 1992,Gore Bay Manitoulin Airport,戈尔湾马尼图林,YZE
 1993,Yellowknife International Airport,Yellowknife,YZF
 1994,Salluit Airport,萨鲁特,YZG
@@ -4248,7 +4248,7 @@ id,name,名称,iata_code
 4054,Albert-Bray Airport,阿尔伯特·布雷,BYF
 4055,Le Touquet-C么te d'Opale Airport,Le Touquet-C型么德奥帕尔,LTQ
 4058,Agen-La Garenne Airport,Agen La Garenne,AGF
-4060,Bordeaux-M茅rignac Airport,带边框-M茅里纳克,BOD
+4060,Bordeaux-M茅rignac Airport,波尔多,BOD
 4061,Bergerac-Roumani猫re Airport,Bergerac Roumani公司猫re,EGC
 4063,Cognac-Ch芒teaubernard (BA 709) Air Base,干邑Ch芒teaubernard（BA 709）空军基地,CNG
 4064,La Rochelle-脦le de R茅 Airport,拉罗谢尔-脦R值茅 ,LRH
