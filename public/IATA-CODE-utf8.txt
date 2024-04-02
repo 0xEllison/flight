@@ -4678,7 +4678,7 @@ id,name,名称,iata_code
 4635,Casa De Campo International Airport,Casa De Campo,LRM
 4636,Punta Cana International Airport,蓬塔卡纳,PUJ
 4637,Gregorio Luperon International Airport,格雷戈里奥·卢佩隆,POP
-4638,Las Am茅ricas International Airport,拉斯维加斯茅里卡斯,SDQ
+4638,Las Am茅ricas International Airport,圣多明戈(拉斯阿美利加斯),SDQ
 4640,Cibao International Airport,磁堡,STI
 313964,M茅douneu Airport,M茅杜讷乌,MDV
 21948,Loring International Airport,洛林,LIZ
@@ -5806,7 +5806,7 @@ id,name,名称,iata_code
 5450,Molokai Airport,莫洛凯,MKK
 5451,Waimea Kohala Airport,威美阿科哈拉,MUE
 5452,Kaneohe Bay MCAS (Marion E. Carl Field) Airport,Kaneohe Bay MCAS（马里恩·E·卡尔）,NGF
-5453,Daniel K Inouye International Airport,丹尼尔·K·井上,HNL
+5453,Daniel K Inouye International Airport,夏威夷,HNL
 5454,Lanai Airport,拉奈,LNY
 5455,Kahului Airport,卡胡卢伊,OGG
 24070,Port Allen Airport,艾伦港,PAK
@@ -6472,7 +6472,7 @@ id,name,名称,iata_code
 429705,El Troncal Airport,El Troncal,ARQ
 6101,Las Flores Airport,拉斯弗洛雷斯,ELB
 6102,Palonegro Airport,Palonegro,BGA
-6104,El Dorado International Airport,埃尔多拉多,BOG
+6104,El Dorado International Airport,波哥大,BOG
 6105,Ernesto Cortissoz International Airport,埃内斯托·科尔蒂索兹,BAQ
 6106,Jos茅 Celestino Mutis Airport,乔斯茅 塞莱斯蒂诺·穆蒂斯,BSC
 6107,Gerardo Tobar L贸pez Airport,杰拉多·托巴尔L贸佩兹,BUN
