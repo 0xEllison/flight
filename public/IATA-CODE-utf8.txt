@@ -3925,7 +3925,7 @@ id,name,名称,iata_code
 21045,Scottsdale Airport,斯科茨代尔,SCF
 3874,Brown Field Municipal Airport,布朗菲尔德市政,SDM
 21046,Sidney - Richland Regional Airport,悉尼-里奇兰地区,SDY
-3875,Seattle鈥揟acoma International Airport,西雅图鈥揟阿科马,SEA
+3875,Seattle鈥揟acoma International Airport,西雅图,SEA
 21047,Gillespie Field,吉莱斯皮油田,SEE
 21048,Sebring Regional Airport,塞布林地区,SEF
 21049,Penn Valley Airport,宾夕法尼亚谷,SEG
