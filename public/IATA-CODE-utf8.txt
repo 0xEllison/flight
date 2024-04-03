@@ -3389,7 +3389,7 @@ id,name,名称,iata_code
 20205,Kimble County Airport,金布尔县,JCT
 20207,Jordan Airport,约旦,JDN
 20208,Jefferson City Memorial Airport,杰斐逊市纪念,JEF
-3622,John F Kennedy International Airport,肯尼迪,JFK
+3622,John F Kennedy International Airport,纽约肯尼迪,JFK
 20213,Chautauqua County-Jamestown Airport,乔托夸县詹姆斯敦,JHW
 20214,Jack Edwards National Airport,杰克·爱德华兹国家,GUF
 3623,Joplin Regional Airport,乔普林地区,JLN
