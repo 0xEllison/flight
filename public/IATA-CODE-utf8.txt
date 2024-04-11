@@ -3675,7 +3675,7 @@ id,name,名称,iata_code
 20718,O'Neal Airport,奥尼尔,OEA
 20721,L O Simenstad Municipal Airport,西门斯塔德市,OEO
 20722,Karl Stefan Memorial Airport,卡尔·斯特凡纪念,OFK
-20724,Searle Field,塞尔油田,OGA
+20724, Searle Field,塞尔油田,OGA
 20725,Orangeburg Municipal Airport,奥兰治堡市,OGB
 3746,Ogden Hinckley Airport,奥格登欣克利,OGD
 20727,Ogdensburg International Airport,奥格登斯堡,OGS
@@ -3925,7 +3925,7 @@ id,name,名称,iata_code
 21045,Scottsdale Airport,斯科茨代尔,SCF
 3874,Brown Field Municipal Airport,布朗菲尔德市政,SDM
 21046,Sidney - Richland Regional Airport,悉尼-里奇兰地区,SDY
-3875,Seattle鈥揟acoma International Airport,西雅图,SEA
+3875, Seattle鈥揟acoma International Airport,西雅图,SEA
 21047,Gillespie Field,吉莱斯皮油田,SEE
 21048,Sebring Regional Airport,塞布林地区,SEF
 21049,Penn Valley Airport,宾夕法尼亚谷,SEG
@@ -6920,7 +6920,7 @@ id,name,名称,iata_code
 24678,Nunam Iqua Airport,努纳姆伊夸,SXP
 30624,Aishalton Airport,艾沙尔顿,AHL
 32002,Annai Airport,安纳伊,NAI
-308375,Seal Bay Seaplane Base,海豹湾飞机基地,SYB
+308375, Seal Bay Seaplane Base,海豹湾飞机基地,SYB
 41511,Baramita Airport,巴拉米塔,BMJ
 41512,Bartica A Airport,巴蒂卡A,GFO
 6356,Cheddi Jagan International Airport,迪贾根,GEO
